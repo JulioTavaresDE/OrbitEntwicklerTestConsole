@@ -1,0 +1,15 @@
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\bin\Debug\net6.0\Prj.exe
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\bin\Debug\net6.0\Prj.deps.json
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\bin\Debug\net6.0\Prj.runtimeconfig.json
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\bin\Debug\net6.0\Prj.dll
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\bin\Debug\net6.0\Prj.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\obj\Debug\net6.0\Prj.csproj.AssemblyReference.cache
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\obj\Debug\net6.0\Prj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\obj\Debug\net6.0\Prj.AssemblyInfoInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\obj\Debug\net6.0\Prj.AssemblyInfo.cs
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\obj\Debug\net6.0\Prj.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\obj\Debug\net6.0\Prj.dll
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\obj\Debug\net6.0\refint\Prj.dll
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\obj\Debug\net6.0\Prj.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\obj\Debug\net6.0\Prj.genruntimeconfig.cache
+C:\Users\julio\OneDrive\Área de Trabalho\OrbitIT\Prj\Prj\obj\Debug\net6.0\ref\Prj.dll
